@@ -1,0 +1,25 @@
+h1 {
+    font-family: fantasy;
+}
+
+.link {
+    font-size: 32px;
+}
+
+#BP {
+    background-color: red;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#JMDS {
+    background-color: green;
+    color: white;
+    font-family: cursive;
+}
+
+#EB {
+    background-color: blue;
+    color: white;
+    font-family: initial;
+}
