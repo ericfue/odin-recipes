@@ -1,25 +1,42 @@
 h1 {
     font-family: fantasy;
+    margin: 0 auto;
+    text-align: center;
 }
 
-.link {
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+ul {
+    text-align: center;
+    margin: 50px;
+}
+
+li {
+    margin: 0 auto;
+    display: inline;
     font-size: 32px;
 }
 
 #BP {
-    background-color: red;
+    background-color: lightcoral;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
 }
 
 #JMDS {
-    background-color: green;
+    background-color: lightgreen;
     color: white;
     font-family: cursive;
+    padding: 15px;
 }
 
 #EB {
-    background-color: blue;
+    background-color: lightblue;
     color: white;
     font-family: initial;
+    padding: 15px;
 }
